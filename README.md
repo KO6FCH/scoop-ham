@@ -8,7 +8,8 @@ Here ya go, have fun! `scoop bucket add ham https://github.com/KO6FCH/scoop-ham`
 🔗 https://scoop.sh/
 ## How do I?
 ### 1. Install Scoop
-**Quoted from the [Scoop website](https://scoop.sh/):**  
+**Quoted from the [Scoop website](https://scoop.sh/):**
+
 Open a PowerShell terminal (version 5.1 or later) and from the `PS C:\>` prompt, run:
 ```pwsh
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -55,6 +56,13 @@ scoop update *
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install ham/wsjtx`|`scoop update ham/wsjtx`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install ham/gridtracker`|`scoop update ham/gridtracker`|
 |[JS8Call](http://js8call.com/)|:grey_question:|---|---|---|
+|[EchoLink](https://www.echolink.org/)|:grey_question:|---|---|---|
+|[HAMRS](https://hamrs.app/)|:grey_question:|---|---|---|
+|[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|---|---|
+|[wfview](https://wfview.org/)|:grey_question:|---|---|---|
+|[fldigi](http://www.w1hkj.com/)|:grey_question:|---|---|---|
+|[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|---|---|
+|[SDR++](https://www.sdrpp.org/)|:grey_question:|---|---|---|
 
 <sup>💯 - Everyone's using it. It works. It updates. Hell yeah.</sup>  
 <sup>✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.</sup>  
