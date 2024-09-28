@@ -28,7 +28,7 @@ scoop install ham/chirp
 |:--|:-:|:-:|:-:|
 |CHIRP|:heavy_check_mark:|:x:|:heavy_check_mark:|
 |WSJT-X|:heavy_check_mark:|:x:|:heavy_check_mark:|
-|GridTracker|:heavy_check_mark:|:x:|:x:|
+|GridTracker|:heavy_check_mark:|:x:|:heavy_check_mark:|
 
 ## What next?
 
