@@ -1,8 +1,11 @@
 [![Tests](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml) [![Excavator](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml)
 # A Big Ol' Bucket o' Scooped Ham! 🪣
-📻Amateur radio applications for **[Scoop](https://scoop.sh/)**!
+A **[Scoop](https://scoop.sh/)** bucket for amateur radio programs!
 ## If you already have Scoop
-Here ya go, have fun! `scoop bucket add ham https://github.com/KO6FCH/scoop-ham`
+```pwsh
+scoop bucket add ham https://github.com/KO6FCH/scoop-ham
+```
+There's a [list of supported programs below](#scoop-ham.list). Have fun!
 ## What is Scoop?
 > Scoop installs programs you know and love, from the command line with a minimal amount of friction.
 
@@ -50,19 +53,19 @@ Everything.
 ```pwsh
 scoop update *
 ```
-## What programs?
+## <a name="scoop-ham.list">What programs?</a>
 |**Program**|**Status**|**Scoop Name**|**Install**|**Update**|
 |:--|:-:|:-:|:--|:--|
 |[CHIRP](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install ham/chirp`|`scoop update ham/chirp`|
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install ham/wsjtx`|`scoop update ham/wsjtx`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install ham/gridtracker`|`scoop update ham/gridtracker`|
-|[JS8Call](http://js8call.com/)|:clock730:|---|---|---|
-|[EchoLink](https://www.echolink.org/)|:grey_question:|---|---|---|
-|[HAMRS](https://hamrs.app/)|:grey_question:|---|---|---|
-|[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|---|---|
-|[wfview](https://wfview.org/)|:grey_question:|---|---|---|
-|[fldigi](http://www.w1hkj.com/)|:grey_question:|---|---|---|
-|[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|---|---|
-|[SDR++](https://www.sdrpp.org/)|:grey_question:|---|---|---|
+|[JS8Call](http://js8call.com/)|:clock730:|---|||
+|[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
+|[HAMRS](https://hamrs.app/)|:grey_question:|---|||
+|[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|||
+|[wfview](https://wfview.org/)|:grey_question:|---|||
+|[fldigi](http://www.w1hkj.com/)|:grey_question:|---|||
+|[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|||
+|[SDR++](https://www.sdrpp.org/)|:grey_question:|---|||
 
-<sup>💯- Fully tested and working. ✔️- Minimal testing but should work. ⚠️- New to scoop-ham. User beware. 🕢- In progress. ❔- Todo/considering.</sup>
+<sup>💯- Fully tested and working. ✔️- Minimal testing but should work. ⚠️- New to **scoop-ham**. User beware. 🕢- In progress. ❔- Todo/considering.</sup>
