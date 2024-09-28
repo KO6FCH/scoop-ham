@@ -9,7 +9,7 @@ There's a [list of supported programs below](#scoop-ham.programs). Have fun!
 ## What is Scoop?
 > Scoop installs programs you know and love, from the command line with a minimal amount of friction.
 
-:link: https://scoop.sh/
+<sup>:link: https://scoop.sh/</sup>
 ## How do I?
 ### 1. Install Scoop
 > Open a PowerShell terminal (version 5.1 or later) and from the PS C:\> prompt, run:
@@ -17,7 +17,7 @@ There's a [list of supported programs below](#scoop-ham.programs). Have fun!
 > Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 > Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 > ```
-:link: https://scoop.sh/
+<sup>:link: https://scoop.sh/</sup>
 
 And if you don't already have it installed, you'll need `git`.
 ```pwsh
