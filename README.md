@@ -6,9 +6,9 @@
 scoop bucket add ham https://github.com/KO6FCH/scoop-ham
 ```
 
-## What is?
-|Program|Exists|AutoUpdate|Tested|
-|---|---|---|---|
-|WSJT-X|yes|yes|no|
-|CHIRP|yes|yes|no|
-|GridTracker|no|no|no|
+## What programs?
+|**Program**|**Tested?**|**AutoUpdates**|
+|---|:-:|:-:|
+|WSJT-X|:x:|:heavy_check_mark:|
+|CHIRP|:x:|:heavy_check_mark:|
+|GridTracker|:x:|:x:|
