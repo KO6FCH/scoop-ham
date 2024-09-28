@@ -4,7 +4,8 @@
 ## If you already have Scoop
 Here ya go, have fun! `scoop bucket add ham https://github.com/KO6FCH/scoop-ham`
 ## What is Scoop?
-> Scoop installs programs you know and love, from the command line with a minimal amount of friction.  
+> Scoop installs programs you know and love, from the command line with a minimal amount of friction.
+
 🔗 https://scoop.sh/
 ## How do I?
 ### 1. Install Scoop
@@ -64,7 +65,10 @@ scoop update *
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|---|---|
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---|---|---|
 
-<sup>💯 - Everyone's using it. It works. It updates. Hell yeah.</sup>  
-<sup>✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.</sup>  
-<sup>⚠️ - User beware. This program is new to scoop-ham. It may not be up to date, you may lose settings between updates, etc.</sup>  
-<sup>❔ - Todo, investigating feasibility.</sup>  
+<sup>💯 - Everyone's using it. It works. It updates. Hell yeah.</sup>
+
+<sup>✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.</sup>
+
+<sup>⚠️ - User beware. This program is new to scoop-ham. It may not be up to date, you may lose settings between updates, etc.</sup>
+
+<sup>❔ - Todo, investigating feasibility.</sup>
