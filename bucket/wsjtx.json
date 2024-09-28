@@ -1,0 +1,37 @@
+{
+    "version": "2.6.0",
+    "description": "WSJT-X implements modes like FT4, FT8, JT9, JT65, WSPR, and more for making QSOs under extreme weak-signal conditions.",
+    "homepage": "https://wsjt.sourceforge.io/wsjtx.html",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://downloads.sourceforge.net/project/wsjt/wsjtx-2.6.0/wsjtx-2.6.0-win64.exe#/dl.7z",
+            "hash": "sha1:ff8729d57e32c4ee5f405d714da703a9c2b44453"
+        },
+        "32bit": {
+            "url": "https://downloads.sourceforge.net/project/wsjt/wsjtx-2.6.0/wsjtx-2.6.0-win32.exe#/dl.7z",
+            "hash": "sha1:591088cf747e0ccab4e5af0cd90d152e656d5dc7"
+        }
+    },
+    "shortcuts": [
+        [
+            "bin\\wsjtx.exe",
+            "WSJT-X"
+        ]
+    ],
+    "checkver":{
+        "url": "https://wsjt.sourceforge.io/wsjtx.html",
+        "regex": "Latest General Availability \\(GA\\) releases:&nbsp; <i>WSJT-X ([\\d.]+)"
+    },
+    "autoupdate": {
+        "note": "WSJT-X autoupdated! Be sure to check your settings before transmitting!",
+        "architecture": {
+            "64bit": {
+                "url": "https://downloads.sourceforge.net/project/wsjt/wsjtx-$version/wsjtx-$version-win64.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://downloads.sourceforge.net/project/wsjt/wsjtx-$version/wsjtx-$version-win32.exe#/dl.7z"
+            }
+        }
+    }
+}
