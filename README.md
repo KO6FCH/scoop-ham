@@ -65,10 +65,7 @@ scoop update *
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|---|---|
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---|---|---|
 
-<sup>💯 - Everyone's using it. It works. It updates. Hell yeah.</sup>
-
-<sup>✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.</sup>
-
-<sup>⚠️ - User beware. This program is new to scoop-ham. It may not be up to date, you may lose settings between updates, etc.</sup>
-
-<sup>❔ - Todo, investigating feasibility.</sup>
+<sup>💯 - Everyone's using it. It works. It updates. Hell yeah.  
+✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.  
+⚠️ - User beware. This program is new to scoop-ham. It may not be up to date, you may lose settings between updates, etc.  
+❔ - Todo, investigating feasibility.</sup>
