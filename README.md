@@ -1,14 +1,14 @@
 [![Tests](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml) [![Excavator](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml)
 # A Big Ol' Bucket o' Scooped Ham! 🪣
 📻Amateur radio applications for **[Scoop](https://scoop.sh/)**!
+## If you already have Scoop
+Here ya go, have fun! `scoop bucket add ham https://github.com/KO6FCH/scoop-ham`
 ## What is Scoop?
-> Scoop installs programs you know and love, from the command line with a minimal amount of friction.
-
+> Scoop installs programs you know and love, from the command line with a minimal amount of friction.  
 🔗 https://scoop.sh/
 ## How do I?
 ### 1. Install Scoop
-**Via the [Scoop website](https://scoop.sh/):**
-
+**Quoted from the [Scoop website](https://scoop.sh/):**  
 Open a PowerShell terminal (version 5.1 or later) and from the `PS C:\>` prompt, run:
 ```pwsh
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
