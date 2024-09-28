@@ -24,7 +24,6 @@
         "regex": "Latest General Availability \\(GA\\) releases:&nbsp; <i>WSJT-X ([\\d.]+)"
     },
     "autoupdate": {
-        "note": "WSJT-X autoupdated! Be sure to check your settings before transmitting!",
         "architecture": {
             "64bit": {
                 "url": "https://downloads.sourceforge.net/project/wsjt/wsjtx-$version/wsjtx-$version-win64.exe#/dl.7z"
