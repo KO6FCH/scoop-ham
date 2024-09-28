@@ -56,9 +56,9 @@ scoop update *
 ## <a name="scoop-ham.list">What programs?</a>
 |**Program**|**Status**|**Scoop Name**|**Install**|**Update**|
 |:--|:-:|:-:|:--|:--|
-|[CHIRP](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install ham/chirp`|`scoop update ham/chirp`|
-|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install ham/wsjtx`|`scoop update ham/wsjtx`|
-|[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install ham/gridtracker`|`scoop update ham/gridtracker`|
+|[CHIRP](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`|`scoop update chirp`|
+|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|`scoop update wsjtx`|
+|[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`|`scoop update gridtracker`|
 |[JS8Call](http://js8call.com/)|:clock730:|---|||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|||
