@@ -56,7 +56,7 @@ scoop update *
 |[CHIRP](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install ham/chirp`|`scoop update ham/chirp`|
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install ham/wsjtx`|`scoop update ham/wsjtx`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install ham/gridtracker`|`scoop update ham/gridtracker`|
-|[JS8Call](http://js8call.com/)|:grey_question:|---|---|---|
+|[JS8Call](http://js8call.com/)|:clock730:|---|---|---|
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|---|---|
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|---|---|
 |[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|---|---|
@@ -65,7 +65,4 @@ scoop update *
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|---|---|
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---|---|---|
 
-<sup>💯 - Everyone's using it. It works. It updates. Hell yeah.  
-✔️ - I use it regularly and it seems to work fine. It should be safe to download and update.  
-⚠️ - User beware. This program is new to scoop-ham. It may not be up to date, you may lose settings between updates, etc.  
-❔ - Todo, investigating feasibility.</sup>
+<sup>💯- Fully tested and working. ✔️- Minimal testing but should work. ⚠️- New to scoop-ham. User beware. 🕢- In progress. ❔- Todo/considering.</sup>
