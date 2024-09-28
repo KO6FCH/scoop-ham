@@ -66,5 +66,6 @@ scoop update *
 |[fldigi](http://www.w1hkj.com/)|:grey_question:|---|||
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---|||
+|[NetTime](https://www.timesynctool.com/)|:grey_question:|---|||
 
 <sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sup>
