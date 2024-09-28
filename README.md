@@ -5,25 +5,25 @@ A **[Scoop](https://scoop.sh/)** bucket for amateur radio programs!
 ```pwsh
 scoop bucket add ham https://github.com/KO6FCH/scoop-ham
 ```
-There's a [list of supported programs below](#scoop-ham.list). Have fun!
+There's a [list of supported programs below](#scoop-ham.programs). Have fun!
 ## What is Scoop?
 > Scoop installs programs you know and love, from the command line with a minimal amount of friction.
 
-🔗 https://scoop.sh/
+:link: https://scoop.sh/
 ## How do I?
 ### 1. Install Scoop
-**Quoted from the [Scoop website](https://scoop.sh/):**
+> Open a PowerShell terminal (version 5.1 or later) and from the PS C:\> prompt, run:
+> ```pwsh
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+> Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+> ```
+:link: https://scoop.sh/
 
-Open a PowerShell terminal (version 5.1 or later) and from the `PS C:\>` prompt, run:
-```pwsh
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-```
 And if you don't already have it installed, you'll need `git`.
 ```pwsh
 scoop install git
 ```
-### 2. Add the scoop-ham bucket
+### 2. Add the **scoop-ham** bucket
 ```pwsh
 scoop bucket add ham https://github.com/KO6FCH/scoop-ham
 ```
@@ -35,10 +35,6 @@ scoop install wsjtx
 A bunch at once.
 ```pwsh
 scoop install wsjtx gridtracker chirp
-```
-Something that has the same name as a program in another bucket.
-```pwsh
-scoop install ham/chirp
 ```
 ### 4. Update Programs
 One at a time.
@@ -53,13 +49,16 @@ Everything.
 ```pwsh
 scoop update *
 ```
-## <a name="scoop-ham.list">What programs?</a>
+## <a name="scoop-ham.programs">What programs?</a>
+<sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sub>
 |**Program**|**Status**|**Scoop Name**|**Install**|**Update**|
-|:--|:-:|:-:|:--|:--|
-|[CHIRP](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`|`scoop update chirp`|
+|:--|:-:|:-:|:-:|:-:|
+|[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`|`scoop update chirp`|
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|`scoop update wsjtx`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`|`scoop update gridtracker`|
 |[JS8Call](http://js8call.com/)|:clock730:|---|||
+|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:grey_question:|---|||
+|[CHIRP-legacy](https://chirpmyradio.com/)|:grey_question:|---|||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|||
 |[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|||
@@ -68,4 +67,4 @@ scoop update *
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---|||
 
-<sup>💯- Fully tested and working. ✔️- Minimal testing but should work. ⚠️- New to **scoop-ham**. User beware. 🕢- In progress. ❔- Todo/considering.</sup>
+<sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sup>
