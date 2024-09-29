@@ -56,9 +56,9 @@ scoop update *
 |[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`|`scoop update chirp`|
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|`scoop update wsjtx`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`|`scoop update gridtracker`|
-|[JS8Call](http://js8call.com/)|:clock730:|---|||
-|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:grey_question:|---|||
-|[CHIRP-legacy](https://chirpmyradio.com/)|:grey_question:|---|||
+|[JS8Call](http://js8call.com/)|:warning:|`js8call`|`scoop install js8call`|`scoop update js8call`|
+|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:clock730:|---|||
+|[CHIRP-legacy](https://chirpmyradio.com/)|:clock730:|---|||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|||
 |[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|||
