@@ -54,10 +54,10 @@ scoop update *
 |**Program**|**Status**|**Scoop Name**|**Install**|**Notes**|
 |:--|:-:|:-:|:-:|:-:|
 |[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`||
-|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|Might cause conflict with `wsjtx-rc`.|
+|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|may conflict with `wsjtx-rc`|
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`||
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`|`scoop install js8call`||
-|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|`scoop install wsjtx-rc`|Might cause conflict with `wsjtx`.|
+|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|`scoop install wsjtx-rc`|may conflict with `wsjtx`|
 |[CHIRP-legacy](https://chirpmyradio.com/)|:clock730:|---|||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|||
