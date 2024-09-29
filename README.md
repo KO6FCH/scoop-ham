@@ -28,27 +28,21 @@ scoop install git
 scoop bucket add ham https://github.com/KO6FCH/scoop-ham
 ```
 ### 3. Install Programs
-One at a time.
 ```pwsh
 scoop install wsjtx
 ```
-A bunch at once.
-```pwsh
-scoop install wsjtx gridtracker chirp
-```
+> [!TIP]
+> You can install multiple programs at the same time!
+>
+> `scoop install wsjtx gridtracker js8call`
+
 ### 4. Update Programs
-One at a time.
 ```pwsh
 scoop update wsjtx
 ```
-A bunch at once.
-```pwsh
-scoop update wsjtx chirp gridtracker
-```
-Everything.
-```pwsh
-scoop update *
-```
+> [!TIP]
+> Update all Scoop programs with `scoop update *`
+
 ## <a name="scoop-ham.programs">What programs?</a>
 <sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sub>
 |**Program**|**Status**|**Scoop Name**|**Install**|**Notes**|
