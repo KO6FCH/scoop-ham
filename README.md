@@ -11,34 +11,34 @@ There's a [list of supported programs below](#scoop-ham.programs). Have fun!
 
 <sup>:link: https://scoop.sh/</sup>
 ## How do I?
-### 1. Install Scoop
+### Install Scoop
 > Open a PowerShell terminal (version 5.1 or later) and from the PS C:\> prompt, run:
 > ```pwsh
 > Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 > Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 > ```
 <sup>:link: https://scoop.sh/</sup>
-
-And if you don't already have it installed, you'll need `git`.
+### Add the **scoop-ham** bucket
+If you don't already have `git` installed.
 ```pwsh
 scoop install git
 ```
-### 2. Add the **scoop-ham** bucket
+Then, add the bucket.
 ```pwsh
 scoop bucket add ham https://github.com/KO6FCH/scoop-ham
 ```
-### 3. Install Programs
+### Install Programs
 ```pwsh
-scoop install wsjtx
+scoop install chirp
 ```
 > [!TIP]
 > You can install multiple programs at the same time!
 >
-> `scoop install wsjtx gridtracker js8call`
+> `scoop install chirp wsjtx gridtracker`
 
-### 4. Update Programs
+### Update Programs
 ```pwsh
-scoop update wsjtx
+scoop update chirp
 ```
 > [!TIP]
 > Update all Scoop programs with `scoop update *`
