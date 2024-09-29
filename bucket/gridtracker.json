@@ -11,6 +11,9 @@
             "GridTracker"
         ]
     ],
+    "suggest":{
+        "WSJT-X": "wsjtx"
+    },
     "checkver": {
         "url": "https://gridtracker.org/index.php/downloads/gridtracker-downloads",
         "regex": "GridTracker v([\\d.]+) Windows Installer"

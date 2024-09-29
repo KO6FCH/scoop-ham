@@ -1,6 +1,6 @@
 {
     "version": "2.6.1",
-    "description": "WSJT-X implements modes like FT4, FT8, JT9, JT65, WSPR, and more for making QSOs under extreme weak-signal conditions.",
+    "description": "WSJT-X implements communication protocols or \"modes\" called FST4, FST4W, FT4, FT8, JT4, JT9, JT65, Q65, MSK144, and WSPR, as well as one called Echo for detecting and measuring your own radio signals reflected from the Moon.  These modes were designed for making reliable, confirmed QSOs under extreme weak-signal conditions.",
     "homepage": "https://wsjt.sourceforge.io/wsjtx.html",
     "license": "GPL-3.0-only",
     "architecture": {

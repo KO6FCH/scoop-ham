@@ -1,6 +1,6 @@
 {
     "version": "20240926",
-    "description": "CHIRP is a free, open-source tool for programming your radio.",
+    "description": "CHIRP is a free, open-source tool for programming your radio. It supports a large number of manufacturers and models, as well as provides a way to interface with multiple data sources and formats.",
     "homepage": "https://chirpmyradio.com",
     "license": "GPL-3.0-only",
     "architecture": {
