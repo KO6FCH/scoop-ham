@@ -51,17 +51,17 @@ scoop update *
 ```
 ## <a name="scoop-ham.programs">What programs?</a>
 <sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sub>
-|**Program**|**Status**|**Scoop Name**|**Install**|**Update**|
+|**Program**|**Status**|**Scoop Name**|**Install**|**Notes**|
 |:--|:-:|:-:|:-:|:-:|
-|[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`|`scoop update chirp`|
-|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|`scoop update wsjtx`|
-|[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`|`scoop update gridtracker`|
-|[JS8Call](http://js8call.com/)|:warning:|`js8call`|`scoop install js8call`|`scoop update js8call`|
-|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:clock730:|---|||
+|[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|`scoop install chirp`||
+|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|`scoop install wsjtx`|Might cause conflict with `wsjtx-rc`.|
+|[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`|`scoop install gridtracker`||
+|[JS8Call](http://js8call.com/)|:warning:|`js8call`|`scoop install js8call`||
+|[WSJT-X RC](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|`scoop install wsjtx-rc`|Might cause conflict with `wsjtx`.|
 |[CHIRP-legacy](https://chirpmyradio.com/)|:clock730:|---|||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---|||
-|[N1MM Logger](https://n1mmwp.hamdocs.com/)|:grey_question:|---|||
+|[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:grey_question:|---|||
 |[wfview](https://wfview.org/)|:grey_question:|---|||
 |[fldigi](http://www.w1hkj.com/)|:grey_question:|---|||
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---|||

@@ -1,0 +1,36 @@
+{
+    "version": "2.7.0-rc6",
+    "description": "[RELEASE CANDIDATE] WSJT-X implements communication protocols or \"modes\" called FST4, FST4W, FT4, FT8, JT4, JT9, JT65, Q65, MSK144, and WSPR, as well as one called Echo for detecting and measuring your own radio signals reflected from the Moon.  These modes were designed for making reliable, confirmed QSOs under extreme weak-signal conditions.",
+    "homepage": "https://wsjt.sourceforge.io/wsjtx.html",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://sourceforge.net/projects/wsjt/files/wsjtx-2.7.0-rc6/wsjtx-2.7.0-rc6-win64.exe#/dl.7z",
+            "hash": "sha1:9fa12e76a9fc4c793dc6cd5213e852efaf47acf3"
+        },
+        "32bit": {
+            "url": "https://sourceforge.net/projects/wsjt/files/wsjtx-2.7.0-rc6/wsjtx-2.7.0-rc6-win32.exe#/dl.7z",
+            "hash": "sha1:c91deef9a08fee9453134ec6d4597727107c945f"
+        }
+    },
+    "shortcuts": [
+        [
+            "bin\\wsjtx.exe",
+            "WSJT-X [RC]"
+        ]
+    ],
+    "checkver": {
+        "url": "https://wsjt.sourceforge.io/wsjtx.html",
+        "regex": "Candidate release:&nbsp; <i>WSJT-X ([\\d.]+-rc[0-9]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://sourceforge.net/projects/wsjt/files/wsjtx-$version/wsjtx-$version-win64.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://sourceforge.net/projects/wsjt/files/wsjtx-$version/wsjtx-$version-win32.exe#/dl.7z"
+            }
+        }
+    }
+}
