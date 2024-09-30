@@ -44,7 +44,7 @@ scoop update chirp
 > Update all Scoop programs with `scoop update *`
 
 ## <a name="scoop-ham.programs">What programs?</a>
-<sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sub>
+<sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sub>
 |**Program**|**Status**|**Scoop Name**|**Notes**|
 |:--|:-:|:-:|:--|
 |[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|64-bit only. Use `chirp-legacy` for 32-bit.|
@@ -63,6 +63,6 @@ scoop update chirp
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---||
 |[wfview](https://wfview.org/)|:grey_question:|---||
 
-<sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- New to **scoop-ham**. User beware. :clock730:- In progress. :grey_question:- Todo/considering.</sup>
+<sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sup>
 <hr/>
 <sub>TODO: Add the topic 'scoop-bucket' to the repo to be indexed on https://scoop.sh.</sub> 
