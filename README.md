@@ -52,10 +52,8 @@ scoop update chirp
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`||
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
-|||||
 |[CHIRP-legacy](https://chirpmyradio.com/)|:clock730:|---||
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
-|||||
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---||
 |[EZNEC Pro+](https://www.eznec.com/)|:grey_question:|---||
