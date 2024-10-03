@@ -1,12 +1,12 @@
 {
-    "version": "20240926",
+    "version": "20241003",
     "description": "CHIRP is a free, open-source tool for programming your radio. It supports a large number of manufacturers and models, as well as provides a way to interface with multiple data sources and formats.",
     "homepage": "https://chirpmyradio.com",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://archive.chirpmyradio.com/chirp_next/next-20240926/chirp-next-20240926-win64.zip",
-            "hash": "321cac22adfbba481d656cb0c4803cee33a2959b100a7eab90494fe40376cfcd"
+            "url": "https://archive.chirpmyradio.com/chirp_next/next-20241003/chirp-next-20241003-win64.zip",
+            "hash": "016d3bb4f28c96edeb8a8b31955dab752baac6b629aac32c96159eb26673a9f2"
         }
     },
     "shortcuts": [
