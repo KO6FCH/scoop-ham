@@ -61,6 +61,7 @@ scoop update chirp
 |[fldigi](http://www.w1hkj.com/)|:grey_question:|---||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---||
+|[SatDump](https://www.satdump.org/)|:grey_question:|---||
 |[wfview](https://wfview.org/)|:grey_question:|---||
 
 <sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sup>
