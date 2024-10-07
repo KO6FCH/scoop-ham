@@ -55,10 +55,10 @@ scoop update chirp
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`||
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`||
 |[NetTime](https://www.timesynctool.com/)|:warning:|`nettime`||
+|[SatDump](https://www.satdump.org/)|:warning:|`satdump`||
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
-|[SatDump](https://www.satdump.org/)|:clock730:|---||
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---||
 |[EZNEC Pro+](https://www.eznec.com/)|:grey_question:|---||
