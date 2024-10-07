@@ -61,11 +61,11 @@ scoop update chirp
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
-|[EchoLink](https://www.echolink.org/)|:grey_question:|---||
+|[EchoLink](https://www.echolink.org/)|:grey_question:|---|Installer URL may change between versions.|
 |[EZNEC Pro+](https://www.eznec.com/)|:grey_question:|---||
 |[HAMRS](https://hamrs.app/)|:grey_question:|---||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---||
-|[wfview](https://wfview.org/)|:grey_question:|---||
+|[wfview](https://wfview.org/)|:grey_question:|---|Installer URL may change between versions.|
 
 <sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sup>
 <hr/>
