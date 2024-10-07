@@ -54,6 +54,7 @@ scoop update chirp
 |[flrig](http://www.w1hkj.com/)|:warning:|`flrig`||
 |[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`||
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`||
+|[NanoVNA Saver](https://github.com/NanoVNA-Saver/nanovna-saver)|:warning:|`nanovnasaver`||
 |[NetTime](https://www.timesynctool.com/)|:warning:|`nettime`||
 |[SatDump](https://www.satdump.org/)|:warning:|`satdump`||
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|Might conflict with `wsjtx-rc`.|
