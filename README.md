@@ -40,7 +40,7 @@ scoop install chirp
 ```pwsh
 scoop update chirp
 ```
-Or update everything!    
+Or update everything!
 ```pwsh
 scoop update *
 ```
