@@ -40,9 +40,12 @@ scoop install chirp
 ```pwsh
 scoop update chirp
 ```
-> [!TIP]
-> Update all Scoop programs with `scoop update *`
-
+Or update everything!    
+```pwsh
+scoop update *
+```
+> [!IMPORTANT]
+> You should decline updates from your programs. Instead, let Scoop manage the updates.
 ## <a name="scoop-ham.programs">What programs?</a>
 <sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sub>
 |**Program**|**Status**|**Scoop Name**|**Notes**|
