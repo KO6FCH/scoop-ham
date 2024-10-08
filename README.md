@@ -71,5 +71,3 @@ scoop update *
 |[wfview](https://wfview.org/)|:grey_question:|---|Installer URL may change between versions.|
 
 <sup>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sup>
-<hr/>
-<sub>TODO: Add the topic 'scoop-bucket' to the repo to be indexed on https://scoop.sh.</sub>
