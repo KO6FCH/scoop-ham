@@ -1,0 +1,3 @@
+- Check auto-updatd settings for basically everything.
+- Wiki.
+- Figure out license for EchoLink.
