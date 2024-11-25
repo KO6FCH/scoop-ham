@@ -51,22 +51,22 @@ scoop update *
 |**Program**|**Status**|**Scoop Name**|**Notes**|
 |:--|:-:|:-:|:--|
 |[CHIRP-next](https://chirpmyradio.com/)|:heavy_check_mark:|`chirp`|64-bit only. Use `chirp-legacy` for 32-bit.|
+|[GridTracker](https://gridtracker.org)|:heavy_check_mark:|`gridtracker`||
+|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:heavy_check_mark:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[CHIRP-legacy](https://chirpmyradio.com/)|:warning:|`chirp-legacy`||
 |[flamp](http://www.w1hkj.com/)|:warning:|`flamp`||
 |[fldigi](http://www.w1hkj.com/)|:warning:|`fldigi`|Includes `flarq`.|
 |[flrig](http://www.w1hkj.com/)|:warning:|`flrig`||
-|[GridTracker](https://gridtracker.org)|:heavy_check_mark:|`gridtracker`||
+|[HAMRS](https://hamrs.app/)|:warning:|`hamrs`||
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`||
 |[NanoVNA Saver](https://github.com/NanoVNA-Saver/nanovna-saver)|:warning:|`nanovnasaver`||
 |[NetTime](https://www.timesynctool.com/)|:warning:|`nettime`||
 |[SatDump](https://www.satdump.org/)|:warning:|`satdump`||
-|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:heavy_check_mark:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
 |[EchoLink](https://www.echolink.org/)|:grey_question:|---|Installer URL may change between versions.|
 |[EZNEC Pro+](https://www.eznec.com/)|:grey_question:|---||
-|[HAMRS](https://hamrs.app/)|:grey_question:|---||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---||
 |[wfview](https://wfview.org/)|:grey_question:|---|Installer URL may change between versions.|
 
