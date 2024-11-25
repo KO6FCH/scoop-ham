@@ -50,17 +50,17 @@ scoop update *
 <sub>:100:- Fully tested and working. :heavy_check_mark:- Minimal testing but should work. :warning:- Newly added. User beware. :clock730:- In progress. :grey_question:- To Do/Considering.</sub>
 |**Program**|**Status**|**Scoop Name**|**Notes**|
 |:--|:-:|:-:|:--|
-|[CHIRP-next](https://chirpmyradio.com/)|:warning:|`chirp`|64-bit only. Use `chirp-legacy` for 32-bit.|
+|[CHIRP-next](https://chirpmyradio.com/)|:heavy_check_mark:|`chirp`|64-bit only. Use `chirp-legacy` for 32-bit.|
 |[CHIRP-legacy](https://chirpmyradio.com/)|:warning:|`chirp-legacy`||
 |[flamp](http://www.w1hkj.com/)|:warning:|`flamp`||
 |[fldigi](http://www.w1hkj.com/)|:warning:|`fldigi`|Includes `flarq`.|
 |[flrig](http://www.w1hkj.com/)|:warning:|`flrig`||
-|[GridTracker](https://gridtracker.org)|:warning:|`gridtracker`||
+|[GridTracker](https://gridtracker.org)|:heavy_check_mark:|`gridtracker`||
 |[JS8Call](http://js8call.com/)|:warning:|`js8call`||
 |[NanoVNA Saver](https://github.com/NanoVNA-Saver/nanovna-saver)|:warning:|`nanovnasaver`||
 |[NetTime](https://www.timesynctool.com/)|:warning:|`nettime`||
 |[SatDump](https://www.satdump.org/)|:warning:|`satdump`||
-|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx`|Might conflict with `wsjtx-rc`.|
+|[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:heavy_check_mark:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
