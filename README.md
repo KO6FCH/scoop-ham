@@ -54,6 +54,7 @@ scoop update *
 |[GridTracker](https://gridtracker.org)|:heavy_check_mark:|`gridtracker`||
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|:heavy_check_mark:|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[CHIRP-legacy](https://chirpmyradio.com/)|:warning:|`chirp-legacy`||
+|[EchoLink](https://www.echolink.org/)|:warning:|`echolink`|Installer URL may change between versions.|
 |[flamp](http://www.w1hkj.com/)|:warning:|`flamp`||
 |[fldigi](http://www.w1hkj.com/)|:warning:|`fldigi`|Includes `flarq`.|
 |[flrig](http://www.w1hkj.com/)|:warning:|`flrig`||
@@ -65,7 +66,6 @@ scoop update *
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|:warning:|`wsjtx-rc`|Might conflict with `wsjtx`.|
 |[N1MM Logger+](https://n1mmwp.hamdocs.com/)|:clock730:|---|This will take some time to figure out.|
 |[CQSSTV](https://www.cqsstv.com/)|:grey_question:|---||
-|[EchoLink](https://www.echolink.org/)|:grey_question:|---|Installer URL may change between versions.|
 |[EZNEC Pro+](https://www.eznec.com/)|:grey_question:|---||
 |[SDR++](https://www.sdrpp.org/)|:grey_question:|---||
 |[wfview](https://wfview.org/)|:grey_question:|---|Installer URL may change between versions.|
