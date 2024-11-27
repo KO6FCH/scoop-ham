@@ -1,4 +1,6 @@
-[![Tests](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml) [![Excavator](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml)
+[![Tests](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/ci.yml) [![Excavator](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml/badge.svg)](https://github.com/KO6FCH/scoop-ham/actions/workflows/excavator.yml) ![GitHub Repo Size](https://img.shields.io/github/repo-size/KO6FCH/scoop-ham?style=flat&logo=bookmeter&logoColor=959da5)
+
+
 # A Big Ol' Bucket o' Scooped Ham! 🪣
 A **[Scoop](https://scoop.sh/)** bucket for amateur radio programs!
 ## If you already have Scoop
