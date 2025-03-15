@@ -20,8 +20,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://downloads.sourceforge.net/project/wsjt-x-improved/README.txt",
-        "regex": "WSJT-X_IMPROVED ([\\d.]+)(-devel)? ([\\d.]+(-RC[\\d.]+)?)",
+        "url": "https://sourceforge.net/projects/wsjt-x-improved/rss",
+        "regex": "wsjtx-([\\d.]+)(-devel)?-win64_improved_widescreen_PLUS_([\\d.]+(-RC[\\d.]+)?).exe",
         "replace": "${1}-${3}"
     },
     "autoupdate": {
