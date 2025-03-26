@@ -1,10 +1,10 @@
 {
-    "version": "2.3.121",
+    "version": "2.4.139",
     "description": "EchoLink software allows licensed Amateur Radio stations to communicate with one another over the Internet, using streaming-audio technology.",
     "homepage": "https://www.echolink.org/",
     "license": "OpenSSL",
-    "url": "https://d34yfhzor7jtt3.cloudfront.net/EchoLinkSetup-2-3-121.exe",
-    "hash": "29a5e229eacde0495e4c977f9bb900794bdeae907079c227bd16deff011314f0",
+    "url": "https://d34yfhzor7jtt3.cloudfront.net/EchoLinkSetup-2-4-139.exe",
+    "hash": "c619159fe2d1b9a86546f2874a0e63296fb3c59732e7e4d47082cec816bc1a13",
     "installer": {
         "script": [
             "$extracted = \"$dir\\extracted\"",
