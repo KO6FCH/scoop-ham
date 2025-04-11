@@ -1,12 +1,12 @@
 {
-    "version": "2.34.2",
+    "version": "2.35.0",
     "description": "A simple, portable logger tailored for activities like Parks on the Air, Field Day, and more.",
     "homepage": "https://hamrs.app",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.34.2-win-x64.exe#dl.7z",
-            "hash": "98deb6dc28a50b2a06c57aac7edb9790fdac70b3098879e24ae4c5aeca251ad5",
+            "url": "https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.35.0-win-x64.exe#dl.7z",
+            "hash": "af1768d9b0ac90c1c79076a94f6938a9bcf65bf0bc145be1615b0e0b580db034",
             "installer": {
                 "script": [
                     "Remove-Item \"$dir\\*\" -Exclude 'app-64.7z'",
@@ -15,8 +15,8 @@
             }
         },
         "32bit": {
-            "url": "https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.34.2-win-ia32.exe#dl.7z",
-            "hash": "7ed17ee5ce8d6d1d9468d10c17b3629c011f1b09ba5a3b88c3ab41a4621ee6e5",
+            "url": "https://hamrs-dist.s3.amazonaws.com/hamrs-pro-2.35.0-win-ia32.exe#dl.7z",
+            "hash": "1daf23ab581eeb78d9a9411884503cc70042e031d2bf2836889e6ab5cff570f0",
             "installer": {
                 "script": [
                     "Remove-Item \"$dir\\*\" -Exclude 'app-32.7z'",
