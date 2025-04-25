@@ -1,0 +1,44 @@
+{
+    "version": "2.03",
+    "description": "wfview is open-source software for the control of modern Icom radios",
+    "homepage": "https://wfview.org",
+    "license": "GPL-3.0-only",
+    "url": "https://wfview.org/download/windows-x64-release-v2-03/?wpdmdl=1421/#dl.zip",
+    "hash": "dd8c36714540da378440422ffedf304089faeeb52f5d4c8ae3a4c45702c0e09f",
+    "installer": {
+        "file": "wfview-203-x64.exe",
+        "args": [
+            "--root",
+            "$dir\\wfview",
+            "--accept-licenses",
+            "--default-answer",
+            "--confirm-command",
+            "install"
+        ]
+    },
+    "uninstaller": {
+        "file": "wfview\\maintenancetool.exe",
+        "args": [
+            "--confirm-command",
+            "purge",
+            "wfview"
+        ]
+    },
+    "shortcuts": [
+        [
+            "wfview\\wfview.exe",
+            "wfview"
+        ]
+    ],
+    "checkver": {
+        "url": "https://wfview.org/download/",
+        "regex": "windows-x64-release-v(\\d+)-(\\d+)\\/\\?wpdmdl=(\\d+)",
+        "replace": "${1}.${2}"
+    },
+    "autoupdate": {
+        "url": "https://wfview.org/download/windows-x64-release-v$match1-$match2/?wpdmdl=$match3/#dl.zip",
+        "installer": {
+            "file": "wfview-$cleanVersion-x64.exe"
+        }
+    }
+}
