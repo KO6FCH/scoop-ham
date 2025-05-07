@@ -64,6 +64,7 @@ scoop update *
 |[NetTime](https://www.timesynctool.com/)|`nettime`||
 |[QLog](https://github.com/foldynl/QLog/releases/tag/v0.41.1)|`qlog-np`||
 |[SatDump](https://www.satdump.org/)|`satdump`||
+|[wfview](https://wfview.org)|`wfview`||
 |[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html)|`wsjtx`|Might conflict with `wsjtx-rc`.|
 |[WSJT-Z](https://sourceforge.net/projects/wsjt-z/)|`wsjtz`||
 |[WSJT-X Release Candidate](https://wsjt.sourceforge.io/wsjtx.html)|`wsjtx-rc`|Might conflict with `wsjtx`.|
