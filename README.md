@@ -60,6 +60,7 @@ scoop update *
 |[GridTracker](https://gridtracker.org)|`gridtracker`||
 |[HAMRS](https://hamrs.app/)|`hamrs`||
 |[JS8Call](http://js8call.com/)|`js8call`||
+|[MorseRunner](https://github.com/w7sst/MorseRunner)|`morserunner`||
 |[NanoVNA Saver](https://github.com/NanoVNA-Saver/nanovna-saver)|`nanovnasaver`||
 |[NetTime](https://www.timesynctool.com/)|`nettime`||
 |[QLog](https://github.com/foldynl/QLog/releases/tag/v0.41.1)|`qlog-np`||
