@@ -26,7 +26,7 @@
         ]
     },
     "uninstaller": {
-        "file": "wfview\\maintenancetool.exe",
+        "file": "wfview\\wfviewmaintenancetool.exe",
         "args": [
             "--confirm-command",
             "purge",
