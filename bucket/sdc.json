@@ -1,13 +1,13 @@
 {
-    "version": "19.06",
+    "version": "19.07",
     "description": "SDC is Software Defined Connectors. It is a set of programs for amateur radio station.",
     "homepage": "https://www.lw-sdc.com/",
     "license": "Shareware",
     "depends": "main/innoextract",
     "architecture": {
         "64bit": {
-            "url": "https://www.lw-sdc.com/wp-content/uploads/SDC_19.06x64_setup.zip",
-            "hash": "ff1bbee6d46f4c74bee2388abb4a6e909a839e9a1f96ffb7525a29243c38641b"
+            "url": "https://www.lw-sdc.com/wp-content/uploads/SDC_19.07x64_setup.zip",
+            "hash": "3a8c5e6b08797c0566e64b471329a17d901638df9f3feebb7f2defecdde42eba"
         }
     },
     "pre_install": [
