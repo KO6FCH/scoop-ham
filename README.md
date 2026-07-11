@@ -51,6 +51,7 @@ scoop update *
 ## <a name="scoop-ham.programs">What programs?</a>
 |**Program**|**Scoop Name**|**Notes**|
 |:--|:-:|:--|
+|[ADIF Master](https://www.dxshell.com/adif-master.html)|`adifmaster`||
 |[CHIRP-next](https://chirpmyradio.com/)|`chirp`|64-bit only. Use `chirp-legacy` for 32-bit.|
 |[CHIRP-legacy](https://chirpmyradio.com/)|`chirp-legacy`||
 |[EchoLink](https://www.echolink.org/)|`echolink`|Installer URL may change between versions.|
