@@ -59,6 +59,6 @@
         "github": "https://github.com/foldynl/QLog"
     },
     "autoupdate": {
-        "url": "https://github.com/foldynl/QLog/releases/download/v$version/qlog-installer-$version.exe#/dl.exe"
+        "url": "https://github.com/foldynl/QLog/releases/download/v$version/qlog-$version-x86_64.exe#/dl.exe"
     }
 }
