@@ -15,7 +15,7 @@
     },
     "shortcuts": [
         [
-            "bin\\wsjtx.exe",
+            "bin\\ws.exe",
             "WSJT-X Improved AL PLUS"
         ]
     ],
